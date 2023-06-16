@@ -1,0 +1,15 @@
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\bin\Debug\net6.0\C_lektciya.exe
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\bin\Debug\net6.0\C_lektciya.deps.json
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\bin\Debug\net6.0\C_lektciya.runtimeconfig.json
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\bin\Debug\net6.0\C_lektciya.dll
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\bin\Debug\net6.0\C_lektciya.pdb
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\obj\Debug\net6.0\C_lektciya.csproj.AssemblyReference.cache
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\obj\Debug\net6.0\C_lektciya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\obj\Debug\net6.0\C_lektciya.AssemblyInfoInputs.cache
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\obj\Debug\net6.0\C_lektciya.AssemblyInfo.cs
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\obj\Debug\net6.0\C_lektciya.csproj.CoreCompileInputs.cache
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\obj\Debug\net6.0\C_lektciya.dll
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\obj\Debug\net6.0\refint\C_lektciya.dll
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\obj\Debug\net6.0\C_lektciya.pdb
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\obj\Debug\net6.0\C_lektciya.genruntimeconfig.cache
+C:\Users\qweqwe\Desktop\GB\C#1\C_lektciya\obj\Debug\net6.0\ref\C_lektciya.dll
